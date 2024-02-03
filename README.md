@@ -1,6 +1,6 @@
 git clone 
 https://github.com/MikuuXD/SASUKE
 
-cd SASUKE
+cd KONTOLBAPAKKAU
 
-python join.py
+python kontol.py
